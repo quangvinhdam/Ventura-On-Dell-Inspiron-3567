@@ -21,8 +21,8 @@
 - Touchpad
 - HDMI Port
 - All USB Ports
-- SDCard Port (Fixed in Clover 5139)
-- Bluetooth (Fixed in Clover 5141 + Fixed On/Off in Clover 5142)
+- SDCard Port 
+- Bluetooth 
 
 # Not Working:
 - Airdrop
@@ -36,12 +36,13 @@
 
 
 
-# Download EFI (Opencore 0.7.9)
-- https://github.com/quangvinhdam/Monterey-On-Dell-Inspiron-3567/releases/tag/0.7.9
+# Download EFI (Opencore Mod 0.9.2)
+- https://github.com/quangvinhdam/Ventura-On-Dell-Inspiron-3567/releases/tag/0.9.2
 
 # Credits
-- Apple for macOS.
-- Acidanthera for OpenCore and all the lovely hackintosh work.
-- corpnewt For offline installer.
-- Dortania For great and detailed guides.
-- VNOHackintosh Support group for installation and post installation.
+- [Apple](https://apple.com) For macOS.
+- [Acidanthera](https://github.com/acidanthera) For OpenCore and all the lovely hackintosh work.
+- [Olarila](https://www.olarila.com/) For great guides and offline installer.
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide) For great and detailed guides.
+- [opencore-mod] (https://github.com/topics/opencore-mod)
+- [VNOHackintosh](https://facebook.com/VNOHackintosh) Support group for installation and post installation.
