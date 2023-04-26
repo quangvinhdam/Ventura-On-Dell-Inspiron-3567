@@ -44,5 +44,5 @@
 - [Acidanthera](https://github.com/acidanthera) For OpenCore and all the lovely hackintosh work.
 - [Olarila](https://www.olarila.com/) For great guides and offline installer.
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide) For great and detailed guides.
-- [opencore-mod](https://github.com/topics/opencore-mod) For create Opencore mod version
+- [opencore-mod](https://github.com/topics/opencore-mod) For create OpenCore mod version
 - [VNOHackintosh](https://facebook.com/VNOHackintosh) Support group for installation and post installation.
